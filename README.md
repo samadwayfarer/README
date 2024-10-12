@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" />
-<h1 align="center">Hi , I'm Sakib Hasan</h1>
+<h1 align="center">Hi , I'm Samad Rifat</h1>
 <h3 align="center">A passionate web developer from Bangladesh. I am passionate about creating responsive, user-friendly web applications. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I am always learning and experimenting with the latest web technologies. Let's build something great together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibhasansufi&label=Profile%20views&color=0e75b6&style=flat" alt="sakibhasansufi" /> </p>
@@ -8,13 +8,13 @@
 
 - 💬 Ask me about **react,tailwind,mongoDB**
 
-- 📫 How to reach me **sakibhasansufi@gmail.com**
+- 📫 How to reach me **abdussamadrifat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakibhasansufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakibhasansufi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakibhasansufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibhasansufi" height="30" width="40" /></a>
-<a href="https://fb.com/sakibhasansufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibhasansufi" height="30" width="40" /></a>
+<a href="[  ](https://www.facebook.com/profile.php?id=61555843832122&mibextid=kFxxJD)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibhasansufi" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
