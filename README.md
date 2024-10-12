@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/sakibhasansufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakibhasansufi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakibhasansufi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibhasansufi" height="30" width="40" /></a>
-<a href="[  ](https://www.facebook.com/profile.php?id=61555843832122&mibextid=kFxxJD)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibhasansufi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/samad.rifat20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakibhasansufi" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
