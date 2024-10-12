@@ -37,7 +37,7 @@
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=sakibhasansufi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibhasansufi&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhasansufi&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=samadwayfarer&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=samadwayfarer&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samadwayfarer&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
 
